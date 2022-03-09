@@ -1,6 +1,15 @@
-# 200行代码实现一个多线程的多人在线网络聊天室。
+# 一个多线程的多人在线网络聊天室。
 
-* 约两百多行
 * 多线程
 * Socket通信
-* 编写简易、易读、可维护的代码
+* 简易、易读、可维护
+
+**运行截图**
+
+1.
+
+![](E:\myself\Multithreaded-chat\img\1.png)
+
+2.
+
+![](E:\myself\Multithreaded-chat\img\2.png)
