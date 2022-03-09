@@ -8,8 +8,8 @@
 
 1.
 
-![](E:\myself\Multithreaded-chat\img\1.png)
+![image](https://github.com/hahaen/Multithreaded-chat/blob/main/img/1.png)
 
 2.
 
-![](E:\myself\Multithreaded-chat\img\2.png)
+![image](https://github.com/hahaen/Multithreaded-chat/blob/main/img/2.png)
